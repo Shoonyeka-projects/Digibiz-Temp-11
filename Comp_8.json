@@ -1,0 +1,34 @@
+
+{
+    "logoSrc": "images/logo.png",
+    "formPlaceholder": "Your email",
+    "formButton": "Subscribe",
+    "contactInfo": [
+      { "icon": "fa-map-marker", "text": "Location", "link": "#" },
+      { "icon": "fa-phone", "text": "Call +01 1234567890", "link": "#" },
+      { "icon": "fa-envelope", "text": "demo@gmail.com", "link": "mailto:demo@gmail.com" }
+    ],
+    "socialLinks": [
+      { "icon": "fa-facebook", "link": "#" },
+      { "icon": "fa-twitter", "link": "#" },
+      { "icon": "fa-linkedin", "link": "#" },
+      { "icon": "fa-instagram", "link": "#" }
+    ],
+    "usefulLinks": [
+      { "text": "Home", "link": "index.html", "active": true },
+      { "text": "About", "link": "about.html" },
+      { "text": "Treatment", "link": "treatment.html" },
+      { "text": "Doctors", "link": "doctor.html" },
+      { "text": "Testimonial", "link": "testimonial.html" },
+      { "text": "Contact us", "link": "contact.html" }
+    ],
+    "latestPosts": [
+      { "imgSrc": "images/post1.jpg", "text": "Normal distribution" },
+      { "imgSrc": "images/post2.jpg", "text": "Normal distribution" }
+    ],
+    "news": [
+      { "imgSrc": "images/post3.jpg", "text": "Normal distribution" },
+      { "imgSrc": "images/post4.png", "text": "Normal distribution" }
+    ]
+  }
+  

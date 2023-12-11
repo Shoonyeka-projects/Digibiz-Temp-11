@@ -1,0 +1,13 @@
+
+{
+    "heading": "Get In Touch",
+    "fields": [
+      { "type": "text", "placeholder": "Full Name" },
+      { "type": "email", "placeholder": "Email" },
+      { "type": "text", "placeholder": "Phone Number" },
+      { "type": "text", "className": "message-box", "placeholder": "Message" }
+    ],
+    "buttonText": "SEND",
+    "imageSrc": "images/contact-img.jpg"
+  }
+  

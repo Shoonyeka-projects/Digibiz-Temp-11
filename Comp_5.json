@@ -1,0 +1,62 @@
+
+{
+    "heading": "Our Doctors",
+    "doctors": [
+      {
+        "image": "images/team1.jpg",
+        "name": "Hennry",
+        "qualification": "MBBS",
+        "socialLinks": [
+          { "platform": "facebook", "link": "/doctor/hennry" },
+          { "platform": "twitter", "link": "/doctor/hennry" },
+          { "platform": "linkedin", "link": "/doctor/hennry" },
+          { "platform": "instagram", "link": "/doctor/hennry" }
+        ]
+      },
+      {
+        "image": "images/team2.jpg",
+        "name": "Jenni",
+        "qualification": "MBBS",
+        "socialLinks": [
+          { "platform": "facebook", "link": "/doctor/jenni" },
+          { "platform": "twitter", "link": "/doctor/jenni" },
+          { "platform": "linkedin", "link": "/doctor/jenni" },
+          { "platform": "instagram", "link": "/doctor/jenni" }
+        ]
+      },
+      {
+        "image": "images/team3.jpg",
+        "name": "Morco",
+        "qualification": "MBBS",
+        "socialLinks": [
+          { "platform": "facebook", "link": "/doctor/morco" },
+          { "platform": "twitter", "link": "/doctor/morco" },
+          { "platform": "linkedin", "link": "/doctor/morco" },
+          { "platform": "instagram", "link": "/doctor/morco" }
+        ]
+      },
+      {
+        "image": "images/team1.jpg",
+        "name": "Hennry",
+        "qualification": "MBBS",
+        "socialLinks": [
+          { "platform": "facebook", "link": "/doctor/hennry" },
+          { "platform": "twitter", "link": "/doctor/hennry" },
+          { "platform": "linkedin", "link": "/doctor/hennry" },
+          { "platform": "instagram", "link": "/doctor/hennry" }
+        ]
+      },
+      {
+        "image": "images/team1.jpg",
+        "name": "Hennry",
+        "qualification": "MBBS",
+        "socialLinks": [
+          { "platform": "facebook", "link": "/doctor/hennry" },
+          { "platform": "twitter", "link": "/doctor/hennry" },
+          { "platform": "linkedin", "link": "/doctor/hennry" },
+          { "platform": "instagram", "link": "/doctor/hennry" }
+        ]
+      }
+    ]
+  }
+  

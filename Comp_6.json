@@ -1,0 +1,27 @@
+
+[
+    {
+      "name": "Morijorch",
+      "designation": "Default model text",
+      "quote": "Editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy...",
+      "readMoreLink": "/read-more"
+    },
+    {
+      "name": "Rochak",
+      "designation": "Default model text",
+      "quote": "Various editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy...",
+      "readMoreLink": "/read-more"
+    },
+    {
+      "name": "Brad Johns",
+      "designation": "Default model text",
+      "quote": "Various editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy...",
+      "readMoreLink": "/read-more"
+    },
+    {
+      "name": "9",
+      "designation": "18",
+      "quote": "141"
+    }
+  ]
+  

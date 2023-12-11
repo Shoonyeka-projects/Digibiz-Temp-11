@@ -1,0 +1,23 @@
+
+{
+    "formTitle": "BOOK APPOINTMENT",
+    "patientNameLabel": "Patient Name",
+    "doctorNameLabel": "Doctor's Name",
+    "departmentNameLabel": "Department's Name",
+    "phoneLabel": "Phone Number",
+    "symptomsLabel": "Symptoms",
+    "dateLabel": "Choose Date",
+    "submitButton": "Submit Now",
+    "optionValues": ["Normal distribution", "Normal distribution", "Normal distribution"],
+
+    "formTitle_meta": "16",
+    "patientNameLabel_meta": "12",
+    "doctorNameLabel_meta": "13",
+    "departmentNameLabel_meta": "17",
+    "phoneLabel_meta": "12",
+    "symptomsLabel_meta": "8",
+    "dateLabel_meta": "11",
+    "submitButton_meta": "10",
+    "optionValues_meta": ["19", "19", "19"]
+  }
+  
